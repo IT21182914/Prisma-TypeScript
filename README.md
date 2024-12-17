@@ -28,7 +28,7 @@ This project implements **digital image watermarking** techniques to embed and d
 ## **How to Run 🛠️**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/watermarking-project.git](https://github.com/IT21182914/Watermarking-OpenCV-Project-UCSC
+   git clone [https://github.com/IT21182914/Watermarking-OpenCV-Project-UCSC]
    cd watermarking-project
    pip install -r requirements.txt
    python main.py
